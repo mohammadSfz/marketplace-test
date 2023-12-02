@@ -2,14 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## System Requirements:
-    Node.js 18.17 or later.
+Node.js 18.17 or later.
 
 ## Packages Requirements
-    Please install json-server 
+Please install json-server:
+
 ```bash
 npm i json-server
+```
 ## Getting Started
-
 First, run the development server:
 
 ```bash
